@@ -1,3 +1,3 @@
 # Data-Science-and-Machine-Learning
 
-This is a epfl course given by prof. Jean-Philippe Forestier
+This is a EPFL course given by prof. Jean-Philippe Forestier
